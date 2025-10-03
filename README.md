@@ -8,5 +8,7 @@
 ## Tecnologias que estou aprendendo
 
 <div style="display: inline_block">
-  <img align="center" alt="HTML" src="<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>" />
+  <img align="center" alt="HTML" src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+          
 </div><br/>
+          
