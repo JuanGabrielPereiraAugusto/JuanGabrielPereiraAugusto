@@ -4,8 +4,6 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-gabriel-223331277)
 [![gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juangabrielpereiraaugusto@gmail.com)
 
-![Juan GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanGabrielPereiraAugusto&show_icons=true&theme=radical)
-
 ## Tecnologias que estou aprendendo
 
 <div style="display: inline_block">
