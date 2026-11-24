@@ -22,7 +22,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na **Fatec Taquaritinga*
 
 | Área | Trabalhos |
 |---|---|
-| 🐍 **Python e lógica** | [Algoritmos em Python](https://github.com/JuanGabrielPereiraAugusto/ALP-ALGORITIMO-E-LOGICA-DE-PROGRAMACAO) |
+| 🐍 **Python e lógica** | [Algoritmos em Python](https://github.com/JuanGabrielPereiraAugusto/ALP-ALGORITMO-E-LOGICA-DE-PROGRAMACAO) |
 | 📐 **Matemática** | [Matemática Discreta](https://github.com/JuanGabrielPereiraAugusto/MD-APLICADA-A-COMPUTACAO) · [Cálculo](https://github.com/JuanGabrielPereiraAugusto/CL-EXERCICIOS-CADERNO) |
 | 🌳 **Algoritmos e estruturas** | [Algoritmos de busca](https://github.com/JuanGabrielPereiraAugusto/ED-ALGORITMOS-DE-BUSCA) · [Árvores binárias](https://github.com/JuanGabrielPereiraAugusto/ED-ARVORES-BINARIAS-INSERCAO-BUSCA) · [Árvores, filas e heap](https://github.com/JuanGabrielPereiraAugusto/ED-ARVORES-FILAS-HEAP) |
 | 🔌 **APIs e back-end** | [API REST em Node.js](https://github.com/JuanGabrielPereiraAugusto/PW-API-NODE-CRUD-ALUNOS) · [To-Do List em PHP](https://github.com/JuanGabrielPereiraAugusto/PW-TODOLIST-PHP) |
@@ -55,7 +55,7 @@ Também: **SQL Server**, **Vue** e **VBA no Excel**.
 | Disciplina | Trabalhos |
 |---|---|
 | Programação em Microinformática | [Comanda de bebidas](https://github.com/JuanGabrielPereiraAugusto/PM-VBA-EXCEL-COMANDA-DE-BEBIDAS) · [Venda e consignação](https://github.com/JuanGabrielPereiraAugusto/PM-VENDA-E-CONSIGNACAO-VBA) · [Consignado de vestuário](https://github.com/JuanGabrielPereiraAugusto/PM-CONSIGNADO-VESTUARIO-VBA) · [Recibo de salário](https://github.com/JuanGabrielPereiraAugusto/PM-RECIBO-DE-SALARIO-EXCEL) |
-| Algoritmos e Lógica de Programação | [Do projeto à implementação](https://github.com/JuanGabrielPereiraAugusto/ALP-ALGORITIMO-E-LOGICA-DE-PROGRAMACAO) |
+| Algoritmos e Lógica de Programação | [Do projeto à implementação](https://github.com/JuanGabrielPereiraAugusto/ALP-ALGORITMO-E-LOGICA-DE-PROGRAMACAO) |
 | Sistemas de Informação | [PESI, ERP, CRM e Coca-Cola](https://github.com/JuanGabrielPereiraAugusto/SI-PESI-ERP-CRM-COCA-COLA) |
 | Arquitetura e Organização de Computadores | [Microprocessadores Intel](https://github.com/JuanGabrielPereiraAugusto/AOC-MICROPROCESSADORES-INTEL) · [GPU](https://github.com/JuanGabrielPereiraAugusto/AOC-GPU-PROCESSAMENTO-GRAFICO) · [Harvard × von Neumann](https://github.com/JuanGabrielPereiraAugusto/AOC-HARVARD-VS-VON-NEUMANN-) · [Cloud Computing](https://github.com/JuanGabrielPereiraAugusto/AOC-CLOUD-COMPUTING) · [TI Verde](https://github.com/JuanGabrielPereiraAugusto/AOC-TI-VERDE) |
 | Matemática Discreta | [Aplicada à computação](https://github.com/JuanGabrielPereiraAugusto/MD-APLICADA-A-COMPUTACAO) |
