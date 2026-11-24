@@ -1,4 +1,3 @@
-
 ## Olá! Eu sou o Juan 🖐️
 
 Estudante de **Análise e Desenvolvimento de Sistemas** na **Fatec Taquaritinga** e desenvolvedor full stack em formação. Aqui estão os trabalhos da faculdade e meus estudos de programação.
